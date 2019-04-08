@@ -1,3 +1,13 @@
+fglsagfdkshjg fds `var PropertyName = "City";` fslb kfds gfd
+
+``` csharp
+private void OnPropertyChanged(string propertyName)
+{
+   PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+}
+```
+
+
 Android | iOS | Windows
 :------- | :--------: | ---:
 Medium App for Android | Medium App for iOS | Medium App for Windows
