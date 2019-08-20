@@ -10,7 +10,7 @@ No matter how good of a programmer you are, if you are a bad person, we don't wa
 we are all learning all the time so try to always respect others, answer with helpful advice or insightful tips and get along people!
 
 If you see any unacceptable behavior, ignore the offender but please
-report it to [eduardo@10daysofxamarin.blog].
+report it to [here](eduardo@10daysofxamarin.blog).
 
 ## How can I contribute?
 
