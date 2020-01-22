@@ -1,3 +1,11 @@
+Android | iOS | Windows
+--- | :---: | ---:
+**Medium App for Android** | *Medium App for iOS* | ***Medium App for Windows***
+Lorem ipsum dolor sit amet, consectetur. | Lorem ipsum dolor sit. | Lorem ipsum dolor sit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare.
+[Google](https://www.google.ca/) | [DuckDuckGo](https://duckduckgo.com/?t=hk) | [TechCrunch](https://techcrunch.com/)
+
+
 List with checkbox
 
 + [ ] Task 1
