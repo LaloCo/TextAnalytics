@@ -3,7 +3,7 @@ Android | iOS | Windows
 **Medium App for Android** | *Medium App for iOS* | ***Medium App for Windows***
 Lorem ipsum dolor sit amet, consectetur. | Lorem ipsum dolor sit. | Lorem ipsum dolor sit.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare.
-[Google](https://www.google.ca/) | [DuckDuckGo](https://duckduckgo.com/?t=hk) | [TechCrunch](https://techcrunch.com/)
+[Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en) | [App Store](https://apps.apple.com/us/app/medium/id828256236) | [Just web, LOL](https://medium.com/)
 
 
 List with checkbox
