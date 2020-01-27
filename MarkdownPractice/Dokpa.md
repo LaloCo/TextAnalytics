@@ -5,7 +5,10 @@ Lorem ipsum dolor sit amet, consectetur. | Lorem ipsum dolor sit. | Lorem ipsum 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare.
 [Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en) | [App Store](https://apps.apple.com/us/app/medium/id828256236) | [Just web, LOL](https://medium.com/)
 ![](logo_android.png "Android Logo") | ![](logo_ios.png "iOS Logo") | ![](logo_windows.png "Windows Logo")
+[![]()] (https://youtu.be/XH5Dnp5Li74)
 
+Click on the image below to see the video:
+[![](https://img.youtube.com/vi/XH5Dnp5Li74/maxresdefault.jpg)](https://youtu.be/XH5Dnp5Li74)
 
 List with checkbox
 
