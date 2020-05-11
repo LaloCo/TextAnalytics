@@ -55,8 +55,30 @@ this is not part of the list
 - [ ] task 2
 - [ ] task 3
 
+### Adding Tables and Links
+
+Android | iOS | Windows
+------- | ------- | ---
+Medium App for Android | Medium App for iOS | Medium App for Windows
+dafjasdfjdasl;jadlgjasd;lfjasdl;gjasl; | dlfjaldafdlfajf;d | fjdaljfadsjfasda;fjdas;fasd;ldfdasfasdfasdfasdasdfasdgads
 
 
+### First column is aligned left by default, medium column is center aligned and right column is alinged to the right.
+
+Android | iOS | Windows
+------- | :-------: | ---:
+Medium App for Android | *Medium App for iOS* | Medium App for Windows
+dafjasdfjdasl;jadlgjasd;lfjasdl;gjasl; | dlfjaldafdlfajf;dfdafadsfasdfasd | fjdaljfadsjfasda;fjdas;fasd;ldfdasfasdfasdfasdasdfasdgads
+[Play Store](https://play.google.com/store?hl=en_US) | [App Store](https://www.apple.com/ios/app-store/) | [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)
+
+## Using Links
+
+Android | iOS | Windows
+------- | :-------: | ---:
+Medium App for Android | *Medium App for iOS* | Medium App for Windows
+dafjasdfjdasl;jadlgjasd;lfjasdl;gjasl; | dlfjaldafdlfajf;dfdafadsfasdfasd | fjdaljfadsjfasda;fjdas;fasd;ldfdfasdfasdasdfasdgads
+[Play Store](https://play.google.com/store?hl=en_US) | [App Store](https://www.apple.com/ios/app-store/) | [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)
+![Android](https://zdnet3.cbsistatic.com/hub/i/2019/03/16/e118b0c5-cf3c-4bdb-be71-103228677b25/android-logo.png) | ![iOS](https://www.advancedbusinesssolutions.com/wp-content/uploads/2018/03/apple-ios1.jpg) | ![Windows](https://www.deepnetsecurity.com/wp-content/uploads/2014/03/windows-logo.jpg)
 
 
 
