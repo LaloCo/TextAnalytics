@@ -7,6 +7,16 @@ private void OnPropertyChanged(string propertyName)
 }
 ```
 
+``` javascript
+smallNumber = 14;
+largeNumber = 141414;
+
+function addSomeNumbers(a, b) {
+   return a + b
+}
+
+console.log(addSomeNumbers(smallNumber, largeNumber));
+```
 
 Android | iOS | Windows
 :------- | :--------: | ---:
