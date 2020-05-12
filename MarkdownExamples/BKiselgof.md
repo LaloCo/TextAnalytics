@@ -86,5 +86,21 @@ dafjasdfjdasl;jadlgjasd;lfjasdl;gjasl; | dlfjaldafdlfajf;dfdafadsfasdfasd | fjda
 
 
 
+### Example of code inline
 
 
+fdjlakfjld;afd `fdafd` fldajfa
+
+``` python
+from sklearn.neighbors import KNeighborsClassifier
+from mlxtend.plotting import plot_decision_regions
+
+
+knn_model = KNeighborsClassifier(n_neighbors=3)
+knn_model.fit(X_train[:, 2:], y_train)
+plot_decision_regions(X_train[:, 2:], y_train, knn_model)
+plt.xlabel('petal length[cm]')
+plt.ylabel('petal width[cm]')
+plt.savefig('images/decisionreg.pdf')
+plt.show()
+```
