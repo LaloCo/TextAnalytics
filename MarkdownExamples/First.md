@@ -58,14 +58,17 @@ whatever happens | with the columns is nice | 3rd col
 how | does | this | look ?         Well look is not shown cause we only have 3 headers I guess
 
 seems like 3 cols is max
-algin with :
+algin with colon
 to left is left alinged
 both left and right is centered
 and right is right
+
 example
+
 Left aligned | mid aligned | right aligned
-:left  | :mid: | right no spaces:
-:continue on left | :still mid: | and right again:
+:-- | :-: | --:
+left | mid | right no spaces
+continue on left | still mid | and right again
 
 Now something __special__
 How to link.
@@ -77,6 +80,41 @@ so...
 
 Great that works as well :)
 
+
+
+**Images**
+----------
+
+Make sure though that the link is pointing to a jpg or other image file
+Let us try in a table
+
+col1 | col2 | col3
+--- | --- | ---
+![Img1](https://pngimg.com/uploads/android_logo/android_logo_PNG30.png) | ![Img2](https://pngimg.com/uploads/android_logo/android_logo_PNG30.png) | ![Img3](https://pngimg.com/uploads/android_logo/android_logo_PNG30.png "hover over")
+
++ The above 2nd line is format info for the columns (see form in edit mode)
++ Below you find a table with what to type to obtain a specfic alginment
++ Note, the formatting string is the 2nd row (not shown)
++ You need header row, format row, other rows.
++ You cannot change format in between rows
++ To work around that, start new tables...
+
+
+Default | ---
+:-- | ---
+dash dash dash | default alignment
+
+left | :--
+:-- | :--
+colon dash dash | left aligned
+
+mid | :-:
+:-- | :-:
+colon dash colon | middle aligned
+
+right | --:
+:-- | --:
+dash dash colon | right aligned
 
 
 
