@@ -1,10 +1,17 @@
+Android | iOS | Windows
+:--- | :---: | ---:
+Medium App for Android | *Medium App for iOS* | **Medium App for Windows**
+By default, text is aligned to the left | Text is now aligned to the center | Text is now aligned to the right
+[Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en&gl=US) | [App Store](https://apps.apple.com/us/app/medium-read-write-stories/id828256236) | [Just Web, Lol](https://medium.com/)
+
+
 + [ ] Task List
 + [ ] Task 2
 + [ ] Task 3
 
 1. Ordered list
    1. Sublist element
-      1. subsublist
+      1. sub-sublist
    3. sublist element
 3. Second element
 234324. Will appear as the third element
